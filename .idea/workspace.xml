@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5c78de7-761c-4f8c-b390-fc240780b216" name="Default Changelist" comment="" />
+    <list default="true" id="f5c78de7-761c-4f8c-b390-fc240780b216" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/Lab02/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab02/.idea/gradle.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +30,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1pbF4DsmM13cOetIkFBEAkrxey8" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -67,5 +71,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="290" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1618754617962">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="330" y="290" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.804@0.25.1440.804" timestamp="1618754617962" />
   </component>
 </project>
