@@ -25,12 +25,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5c78de7-761c-4f8c-b390-fc240780b216" name="Default Changelist" comment="bug">
-      <change afterPath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/cpc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/rounded_button.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/rounded_edittext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1610456-SP21-CSE486-S01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1610456-SP21-CSE486-S01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Version01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/androidTest/java/com/cse486/cpc_nsu/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/java/com/cse486/cpc_nsu/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/java/com/cse486/cpc_nsu/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/java/com/cse486/cpc_nsu/ManagementLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/java/com/cse486/cpc_nsu/ManagementSignup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/java/com/cse486/cpc_nsu/StudentLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/java/com/cse486/cpc_nsu/StudentSignup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable-v24/rounded_button_white.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/cpc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/rounded_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/rounded_edittext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/layout/activity_management_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/layout/activity_management_signup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/layout/activity_student_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/layout/activity_student_signup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/app/src/test/java/com/cse486/cpc_nsu/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Theory/Assignment/Assignment02/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
