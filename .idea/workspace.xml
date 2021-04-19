@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,14 +24,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5c78de7-761c-4f8c-b390-fc240780b216" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/Lab02/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab02/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="f5c78de7-761c-4f8c-b390-fc240780b216" name="Default Changelist" comment="bug">
+      <change afterPath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/cpc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/rounded_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable/rounded_edittext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1610456-SP21-CSE486-S01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1610456-SP21-CSE486-S01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Version01/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,8 +60,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project/Version01/app/src/main/res/drawable" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,6 +80,14 @@
       <option name="presentableId" value="Default" />
       <updated>1615443689442</updated>
     </task>
+    <task id="LOCAL-00001" summary="bug">
+      <created>1618755387407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618755387407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,10 +102,42 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="290" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1618754617962">
+    <state x="183" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618793797225">
       <screen x="0" y="25" width="1440" height="804" />
     </state>
-    <state x="330" y="290" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.804@0.25.1440.804" timestamp="1618754617962" />
+    <state x="183" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.804@0.25.1440.804" timestamp="1618793797225" />
+    <state x="100" y="125" width="1240" height="604" key="AVDManager" timestamp="1618794583071">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="100" y="125" width="1240" height="604" key="AVDManager/0.25.1440.804@0.25.1440.804" timestamp="1618794583071" />
+    <state x="308" y="186" width="824" height="478" key="AndroidCreateResourceFileDialog" timestamp="1618794866769">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="308" y="186" width="824" height="478" key="AndroidCreateResourceFileDialog/0.25.1440.804@0.25.1440.804" timestamp="1618794866769" />
+    <state x="575" y="243" key="AndroidCreateXmlResourceDialog" timestamp="1618793780993">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="575" y="243" key="AndroidCreateXmlResourceDialog/0.25.1440.804@0.25.1440.804" timestamp="1618793780993" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1618794530601">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.25.1440.804@0.25.1440.804" timestamp="1618794530601" />
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2" timestamp="1618755405701">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.25.1440.804@0.25.1440.804" timestamp="1618755405701" />
+    <state x="330" y="290" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1618755368819">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="330" y="290" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.804@0.25.1440.804" timestamp="1618755368819" />
+    <state x="371" y="46" key="new project wizard" timestamp="1618755667325">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="371" y="46" key="new project wizard/0.25.1440.804@0.25.1440.804" timestamp="1618755667325" />
   </component>
 </project>
