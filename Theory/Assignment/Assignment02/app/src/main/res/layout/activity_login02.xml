@@ -17,14 +17,14 @@
         android:textColor="@color/black"
         android:text="Login Form">
     </TextView>
-
     <EditText
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"
         android:layout_marginBottom="10dp"
-        android:hint="Full Name"
+        android:hint="NSU ID"
+        android:inputType="number"
         android:textSize="14dp"
         android:textColorHint="@color/white"
         android:textAlignment="center"

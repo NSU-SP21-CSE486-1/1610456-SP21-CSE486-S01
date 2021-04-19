@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80px"
+        android:layout_marginTop="40dp"
+        android:textFontWeight='800'
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:text="Login Form">
+    </TextView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/black"
+        android:text="Permanent Address">
+    </TextView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/nidNum"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:textSize="14dp"
+            android:hint="Country"
+            android:inputType="text"
+            android:textColorHint="@color/white"
+            android:textAlignment="center"
+            android:background="@color/blue">
+
+        </EditText>
+        <EditText
+            android:id="@+id/nidNum"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="14dp"
+            android:hint="District"
+            android:inputType="text"
+            android:textColorHint="@color/white"
+            android:textAlignment="center"
+            android:background="@color/blue">
+
+        </EditText>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/nidNum"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:textSize="14dp"
+            android:hint="Post Office"
+            android:inputType="text"
+            android:textColorHint="@color/white"
+            android:textAlignment="center"
+            android:background="@color/blue">
+
+        </EditText>
+        <EditText
+            android:id="@+id/nidNum"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="14dp"
+            android:hint="Police Station"
+            android:inputType="text"
+            android:textColorHint="@color/white"
+            android:textAlignment="center"
+            android:background="@color/blue">
+
+        </EditText>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/nidNum"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:textSize="14dp"
+            android:hint="Postal Code"
+            android:inputType="number"
+            android:textColorHint="@color/white"
+            android:textAlignment="center"
+            android:background="@color/blue">
+
+        </EditText>
+        <EditText
+            android:id="@+id/nidNum"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="14dp"
+            android:hint="House / Village / City"
+            android:inputType="text"
+            android:textColorHint="@color/white"
+            android:textAlignment="center"
+            android:background="@color/blue">
+
+        </EditText>
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/nidNum"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="14dp"
+        android:hint="Road / Block / Sector"
+        android:inputType="text"
+        android:textColorHint="@color/white"
+        android:textAlignment="center"
+        android:background="@color/blue">
+
+    </EditText>
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="100dp"
+        android:background="@drawable/rounded_button"
+        android:textColor="@android:color/white"
+        android:text="Save">
+
+    </Button>
+
+</LinearLayout>
