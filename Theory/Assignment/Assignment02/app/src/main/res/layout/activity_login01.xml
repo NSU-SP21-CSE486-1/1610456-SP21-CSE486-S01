@@ -33,44 +33,19 @@
     </EditText>
 
 
-
-
-    <LinearLayout
+    <Button
+        android:id="@+id/btnNext"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-        <Button
-            android:id="@+id/btnPrevious"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_weight="1"
-            android:layout_marginTop="30dp"
-            android:layout_marginLeft="40dp"
-            android:layout_marginRight="5dp"
-            android:layout_marginBottom="100dp"
-            android:background="@drawable/rounded_button"
-            android:textColor="@android:color/white"
-            android:text="Previous">
-
-        </Button>
-
-        <Button
-            android:id="@+id/btnNext"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_weight="1"
-            android:layout_marginTop="30dp"
-            android:layout_marginLeft="5dp"
-            android:layout_marginRight="40dp"
-            android:layout_marginBottom="100dp"
-            android:background="@drawable/rounded_button"
-            android:textColor="@android:color/white"
-            android:text="Next">
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="100dp"
+        android:background="@drawable/rounded_button"
+        android:textColor="@android:color/white"
+        android:text="Next">
 
 
-        </Button>
-
-    </LinearLayout>
+    </Button>
 
 </LinearLayout>
