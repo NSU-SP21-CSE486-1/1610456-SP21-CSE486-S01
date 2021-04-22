@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="school_array">
+        <item>Abdur Rauf High School</item>
+        <item>Mohammadpur Boys High School</item>
+        <item>Mohammadpur Preparatory School</item>
+        <item>Nur Mohammad High School</item>
+        <item>St Joseph School</item>
+    </string-array>
+</resources>

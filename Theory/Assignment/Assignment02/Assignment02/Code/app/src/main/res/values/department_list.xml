@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dept_array">
+        <item>BBA Department</item>
+        <item>ECE Department</item>
+        <item>English Department</item>
+        <item>Economics Department</item>
+        <item>Math Department</item>
+    </string-array>
+</resources>
